@@ -1,0 +1,712 @@
+[
+   {
+	"stack": "1",
+	"section" : "1",
+	"id" : "1",
+	  
+    "publisher" : "O'Reilly",
+	"year" : "2017",
+	"title" : "Interactive data visualization for the Web : an introduction to designing with D3",
+	"edition" : "Second edition.",
+	"language" : "eng",
+	"author" : "Murray, Scott",
+	"keywords" : "java",
+	"subject" : "JavaScript"
+  }
+,
+  {"stack": "1",
+	"section" : "1",
+    "id" : "2",
+	  
+    "publisher" : "O'Reilly",
+	"year" : "2013",
+	"title" : "Interactive data visualization for the Web",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Murray, Scott",
+	"keywords" : "java",
+	"subject" : "JavaScript"
+  }
+  ,
+  {
+	"stack": "1",
+	"section" : "1",
+    "id" : "3",
+	  
+    "publisher" : "Ak Peters Visualization Series",
+	"year" : "2014 ",
+	"title" : "Visualization Analysis and Design",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Munzner, Tamara",
+	"keywords" : "inf",
+	"subject" : "Information Visualization"
+  }
+,
+  {
+	 	"stack": "1",
+	  	"section" : "1",
+	  	"id" : "4",
+ 
+		"publisher" : "Rockport Publishers ",
+		"year" : "2013 ",
+		"title" : "Design for Information",
+		"edition" : "",
+		"language" : "eng",
+		"author" : "Meirelles, Isabel",
+		"keywords" : "infovis datavis",
+		"subject" : "Information Visualization"
+},
+  
+ 	{
+	"stack": "1",
+	"section" : "1",
+	"id" : "5",
+ 
+	"publisher" : "Elsevier Science & Technology ",
+	"year" : "2013",
+	"title" : "Visual Thinking",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Ware, Colin",
+	"keywords" : "infovis datavis",
+	"subject" : "Information Visualization"
+},
+	
+		{
+	"stack": "1",
+	"section" : "1",
+	"id" : "6",
+ 
+	"publisher" : "Lanham : Rowman & Littlefield",
+	"year" : "2016",
+	"title" : "Data visualization : a guide to visual storytelling for libraries",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Lauren Magnuson. ",
+	"keywords" : "infovis datavis",
+	"subject" : "Information Visualization"
+},
+
+{
+	"stack": "1",
+	"section" : "1",
+	"id" : "7",
+ 
+	"publisher" : "Baltimore, MD : Space Telescope Science Institute",
+	"year" : "1985",
+	"title" : "Data management facility : design guide",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "McGlynn, Tom",
+	"keywords" : " Data processing",
+	"subject" : "Data processing"
+},
+
+	{
+	"stack": "1",
+	"section" : "1",
+	"id" : "8",
+ 
+	"publisher" : "Washington, DC : U.S. Environmental Protection Agency, Science Advisory Board",
+	"year" : "1999",
+	"title" : "Data suitability assessment review of the Center for Environmental Information and Statistic's (CEIS) draft data suitability assessment of major EPA databases.",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "United States. Environmental Protection Agency. Science Advisory Board.",
+	"keywords" : "Data processing",
+	"subject" : "Databases"
+},
+
+		{
+	"stack": "1",
+	"section" : "2",
+	"id" : "9",
+ 
+	"publisher" : "San Francisco : Jossey-Bass",
+	"year" : "2013",
+	"title" : "Data visualization. Part 1",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Assam, Tarek",
+	"keywords" : "Information visualization",
+	"subject" : "Web"
+},
+		{
+	"stack": "1",
+	"section" : "2",
+	"id" : "10",
+ 
+	"publisher" : "",
+	"year" : "2012",
+	"title" : "Data Visualization",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Toedte ; Lane, Ross, H. J. Chad",
+	"keywords" : "Information visualization",
+	"subject" : "Web"
+},
+		
+			{
+	"stack": "1",
+	"section" : "2",
+	"id" : "11",
+ 
+	"publisher" : "Natick, Mass. : A K Peters",
+	"year" : "2010",
+	"title" : "Interactive data visualization : foundations, techniques, and applications",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Ward, Matthew",
+	"keywords" : "Information visualization",
+	"subject" : "Computer graphics"
+},
+				{
+	"stack": "1",
+	"section" : "2",
+	"id" : "12",
+ 
+	"publisher" : "Berlin ; New York : Springer-Verlag",
+	"year" : "1994",
+	"title" : "Database issues for data visualization : IEEE Visualization '93 workshop, San Jose, California, USA, October 26, 1993 : proceedings",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Lee, John P. (John Peter)",
+	"keywords" : "Visualization",
+	"subject" : "Computer graphics"
+},
+				
+					{
+	"stack": "1",
+	"section" : "2",
+	"id" : "13",
+ 
+	"publisher" : "New York, NY : Springer New York : Imprint: Springer",
+	"year" : "2013",
+	"title" : "Multidimensional Data Visualization : Methods and Applications",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Kurasova, Olga",
+	"keywords" : "Visualization",
+	"subject" : "Artificial intelligence"
+},
+					
+						{
+	"stack": "1",
+	"section" : "2",
+	"id" : "14",
+ 
+	"publisher" : "Berlin ; New York : Springer",
+	"year" : "2008",
+	"title" : "Information visualization : human-centered Issues and perspectives",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Kerren, Andreas",
+	"keywords" : "Information visualization",
+	"subject" : "Human-computer interaction"
+},
+						
+							{
+	"stack": "1",
+	"section" : "2",
+	"id" : "15",
+ 
+	"publisher" : "Cham : Springer International Publishing : Imprint: Springer",
+	"year" : "2014",
+	"title" : "Information Visualization : An Introduction",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Spence, Robert",
+	"keywords" : "Computer science",
+	"subject" : "Computer science"
+},
+			
+								{
+	"stack": "1",
+	"section" : "2",
+	"id" : "16",
+ 
+	"publisher" : "San Francisco, CA : Morgan Kaufman",
+	"year" : "2004",
+	"title" : "Information visualization : perception for design",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Ware, Colin",
+	"keywords" : "Information visualization Visual perception",
+	"subject" : "Perception theory"
+},
+								
+									{
+	"stack": "1",
+	"section" : "2",
+	"id" : "17",
+ 
+	"publisher" : "Sebastopol, Calif. : O'Reilly Media, c2008. ",
+	"year" : "2008",
+	"title" : "JavaScript : the good parts",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Crockford, Douglas.",
+	"keywords" : "JavaScript (Computer program language)",
+	"subject" : "JavaScript (Computer program language)"
+},
+									
+										{
+	"stack": "1",
+	"section" : "2",
+	"id" : "18",
+ 
+	"publisher" : "Addison-Wesley Professional ",
+	"year" : "2013",
+	"title" : "WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Matsuda, Kouichi ; Lea, Rodger",
+	"keywords" : "Animation & 3d",
+	"subject" : "Animation & 3d"
+},
+										
+											{
+	"stack": "1",
+	"section" : "2",
+	"id" : "19",
+ 
+	"publisher" : "Upper Saddle River, N.J. : Prentice Hall/Sun Microsystems Press",
+	"year" : "2007",
+	"title" : "Core Java",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Horstmann, Cay S",
+	"keywords" : "Java (Computer program language)",
+	"subject" : "Java (Computer program language)"
+},
+				{
+					
+	"stack": "1",
+	"section" : "2",
+	"id" : "20",
+ 
+	"publisher" : "Beijing ; Cambridge [Mass.] : O'Reilly",
+	"year" : "2007",
+	"title" : "HTML & XHTML : the definitive guide",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Musciano, Chuck.",
+	"keywords" : "HTML (Document markup language) XML (Document markup language)",
+	"subject" : "HTML (Document markup language) XML (Document markup language)"
+},
+					{
+	"stack": "1",
+	"section" : "2",
+	"id" : "21",
+ 
+	"publisher" : "Menlo Park, Calif. : Stanford Research Institute ",
+	"year" : "1973",
+	"title" : "Computer abuse : final report",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Parker, Donn B.",
+	"keywords" : "Computers and civilization",
+	"subject" : "Computer Science"
+},
+					
+	{
+	"stack": "1",
+	"section" : "3",
+	"id" : "22",
+ 
+	"publisher" : "White Plains, N.Y. : Published by Knowledge Industry Publications",
+	"year" : "1982",
+	"title" : "Computer-readable databases : a directory and data sourcebook",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Lannom, Laurence",
+	"keywords" : "Machine readable data",
+	"subject" : "Computer Science"
+},				
+	
+		{
+	"stack": "1",
+	"section" : "3",
+	"id" : "23",
+ 
+	"publisher" : "IEEE Internet Computing",
+	"year" : "2013",
+	"title" : "Augmented Reality Interfaces",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Singh, Mona ; Singh, Munindar P.",
+	"keywords" : "Computing and Processing",
+	"subject" : "Computing and Processing"
+},
+			{
+	"stack": "1",
+	"section" : "3",
+	"id" : "24",
+ 
+	"publisher" : "Proceedings of SPIE",
+	"year" : "2010",
+	"title" : "Augmented reality system",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Lin, Chien-Liang",
+	"keywords" : "Augmented Reality Virtual Reality",
+	"subject" : "Computing and Processing"
+},			
+			
+				{
+	"stack": "1",
+	"section" : "3",
+	"id" : "25",
+ 
+	"publisher" : "Chicago : Reilly & Lee",
+	"year" : "1923",
+	"title" : "The Web",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Emerson Hough",
+	"keywords" : "web",
+	"subject" : "web"
+},
+				
+					{
+	"stack": "1",
+	"section" : "3",
+	"id" : "26",
+ 
+	"publisher" : "Amsterdam : Nijgh & Van Ditmar",
+	"year" : "1997",
+	"title" : "Web",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Paul Mennes. ",
+	"keywords" : "Web",
+	"subject" : "Web"
+},
+					
+						{
+	"stack": "1",
+	"section" : "3",
+	"id" : "27",
+ 
+	"publisher" : "Beijing ; Sebastopol, CA : O'Reilly",
+	"year" : "2011",
+	"title" : "JavaScript : the definitive guide",
+	"edition" : "3rd edition",
+	"language" : "eng",
+	"author" : "David Flanagan",
+	"keywords" : "JavaScript program language programming",
+	"subject" : "Computer science"
+},
+						
+							{
+	"stack": "1",
+	"section" : "4",
+	"id" : "28",
+ 
+	"publisher" : "Beijing ; Sebastopol, CA : O'Reilly",
+	"year" : "1998",
+	"title" : "JavaScript : the definitive guide",
+	"edition" : "2nd edition",
+	"language" : "eng",
+	"author" : "David Flanagan",
+	"keywords" : "JavaScript program language programming",
+	"subject" : "Computer science"
+},
+							
+								{
+	"stack": "1",
+	"section" : "4",
+	"id" : "29",
+									
+   "publisher" : "Beijing ; Sebastopol, CA : O'Reilly",
+	"year" : "1996",
+	"title" : "JavaScript : the definitive guide",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "David Flanagan",
+	"keywords" : "JavaScript program language programming",
+	"subject" : "Computer science"
+},
+								
+{
+	"stack": "1",
+	"section" : "4",
+	"id" : "30",
+ 
+	"publisher" : "Hertseliyah : Hod-ʻami le-sifre maḥshevim",
+	"year" : "2001",
+	"title" : "JavaScript : ha-madrikh ha-shalem",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Wyke, R. Allen.",
+	"keywords" : "JavaScript (Computer program language)",
+	"subject" : "Computer science"
+},
+	{
+	"stack": "1",
+	"section" : "4",
+	"id" : "31",
+ 
+	"publisher" : "New York : Osborne/McGraw-Hill",
+	"year" : "2001",
+	"title" : "JavaScript : programmer's reference",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "MacAuley, Christian",
+	"keywords" : "JavaScript (Computer program language)",
+	"subject" : "Computer science"
+},
+										
+{
+	"stack": "1",
+	"section" : "4",
+	"id" : "32",
+ 
+	"publisher" : "Sebastopol, CA : O'Reilly Media",
+	"year" : "2008",
+	"title" : "JavaScript : the missing manual",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "McFarland, David Sawyer",
+	"keywords" : "JavaScript (Computer program language)",
+	"subject" : "Computer science"
+},
+											
+{
+	"stack": "1",
+	"section" : "4",
+	"id" : "33",
+ 
+	"publisher" : "Englewood Cliffs, N.J. : Prentice-Hall",
+	"year" : "1986",
+	"title" : "Databases : a primer for retrieving information by computer",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Melloni, Biagio John",
+	"keywords" : "Database management",
+	"subject" : "Computer science"
+},
+
+	{
+	"stack": "1",
+	"section" : "4",
+	"id" : "34",
+ 
+	"publisher" : "London ; New York : Chapman and Hall/Methuen",
+	"year" : "1985",
+	"title" : "Databases : how to manage information on your micro",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Peter Laurie",
+	"keywords" : "Database management",
+	"subject" : "Computer science"
+},
+	
+		{
+	"stack": "1",
+	"section" : "4",
+	"id" : "35",
+ 
+	"publisher" : "[Washington, D.C.] : The Bureau",
+	"year" : "1995",
+	"title" : "NTAD Transportation atlas databases ",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Bureau of Transportation Statistics, U.S. Department of Transportation. ",
+	"keywords" : "Database management",
+	"subject" : "Computer science"
+},
+	
+		{
+	"stack": "1",
+	"section" : "4",
+	"id" : "36",
+ 
+	"publisher" : "Principles of Physical Science",
+	"year" : "",
+	"title" : "Computer Science",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "",
+	"keywords" : "Software Computer Programming",
+	"subject" : "Computer Science"
+},
+		
+			{
+	"stack": "1",
+	"section" : "4",
+	"id" : "37",
+ 
+	"publisher" : "London : Springer London",
+	"year" : "2006",
+	"title" : "Information Visualization : Beyond the Horizon",
+	"edition" : "2nd edition",
+	"language" : "eng",
+	"author" : "Chaomei Chen",
+	"keywords" : "Computer graphics Information retrieval Information organization",
+	"subject" : "Algorithms"
+},
+			
+				{
+	"stack": "2",
+	"section" : "3",
+	"id" : "38",
+ 
+	"publisher" : "Philadelphia, North American Pub. Co.",
+	"year" : "1978",
+	"title" : "Web; newspaper and magazine production.",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "",
+	"keywords" : "printing",
+	"subject" : "Web"
+},
+				
+					{
+	"stack": "2",
+	"section" : "3",
+	"id" : "39",
+ 
+	"publisher" : "Cambridge, MA : Expeditionary Learning Outward Bound",
+	"year" : "1993",
+	"title" : "The Web : the newsletter of Expeditionary Learning Outward Bound",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Expeditionary Learning Outward Bound",
+	"keywords" : "learning",
+	"subject" : "Education"
+},
+						{
+	"stack": "2",
+	"section" : "3",
+	"id" : "40",
+ 
+	"publisher" : "Portland, Or. : Northwest Women's Spirituality Network",
+	"year" : "1986",
+	"title" : "The Web",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "",
+	"keywords" : "magic occultism spirituality",
+	"subject" : "Occultism"
+},
+						
+							{
+	"stack": "2",
+	"section" : "3",
+	"id" : "41",
+ 
+	"publisher" : "Englewood Cliffs : PTR Prentice Hall",
+	"year" : "1994",
+	"title" : "Internet : mailing lists",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Hardie, Edward T. L.",
+	"keywords" : "Computer conferencing",
+	"subject" : "Internet"
+},
+							
+								{
+	"stack": "2",
+	"section" : "3",
+	"id" : "42",
+ 
+	"publisher" : "Englewood Cliffs, New Jersey : PTR Prentice Hall",
+	"year" : "1993",
+	"title" : "Internet : getting started",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Marine, April",
+	"keywords" : "Computer networks",
+	"subject" : "Networks"
+},
+								
+									{
+	"stack": "2",
+	"section" : "3",
+	"id" : "43",
+ 
+	"publisher" : "Englewood Cliffs, N.J. : PTR Prentice Hall",
+	"year" : "1994",
+	"title" : "Internet : mailing lists",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Hardie, Edward T. L.",
+	"keywords" : "Internet",
+	"subject" : "Internet"
+},
+									
+										{
+	"stack": "2",
+	"section" : "3",
+	"id" : "44",
+ 
+	"publisher" : "Torino : UTET ",
+	"year" : "1999",
+	"title" : "Internet : una guida per le scienze dell'educazione",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Bruschi, Barbara",
+	"keywords" : "Internet in education",
+	"subject" : "Education"
+},
+										
+											{
+	"stack": "2",
+	"section" : "3",
+	"id" : "45",
+ 
+	"publisher" : "[United States] : Brainy Software",
+	"year" : "2010",
+	"title" : "Java : a beginner's tutorial",
+	"edition" : "2nd edition",
+	"language" : "eng",
+	"author" : "Budi Kurniawan",
+	"keywords" : "Java (Computer program language)",
+	"subject" : "Programming"
+},
+											
+												{
+	"stack": "2",
+	"section" : "3",
+	"id" : "46",
+ 
+	"publisher" : "Berkeley : Osborne McGraw-Hill",
+	"year" : "1998",
+	"title" : "Java",
+	"edition" : "3rd edition",
+	"language" : "eng",
+	"author" : "Herbert Schildt",
+	"keywords" : "C++",
+	"subject" : "Programming"
+},
+													{
+	"stack": "2",
+	"section" : "3",
+	"id" : "47",
+ 
+	"publisher" : "Sudbury, Mass. : Jones and Bartlett Publishers",
+	"year" : "2009",
+	"title" : "C++ : an active learning approach",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Albert, Randal",
+	"keywords" : "C++",
+	"subject" : "Programming"
+},
+														{
+	"stack": "2",
+	"section" : "3",
+	"id" : "48",
+ 
+	"publisher" : "Englewood Cliffs, N.J. : Prentice Hall",
+	"year" : "1995",
+	"title" : "C++ : an introduction to computing",
+	"edition" : "",
+	"language" : "eng",
+	"author" : "Adams, Joel",
+	"keywords" : "C++",
+	"subject" : "Programming"
+}
+]
